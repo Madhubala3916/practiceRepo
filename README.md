@@ -4,3 +4,4 @@
 2. Now I am making changes from remote to local 
 3. Changes made in both
 3. Making change here as well
+5. New change 2 
